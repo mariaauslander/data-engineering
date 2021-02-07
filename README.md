@@ -1,7 +1,7 @@
 ## Data Engineering Project: Streaming and Querying Game-Related Events 
 ### Using Tools Such as Kafka, Spark, HDFS/Parquet, Presto, and Apache Bench
 
-This is a simple data engineering project that utilizes multiple tools to emulate game-related events. It consists of the following tasks:
+This is a simple data engineering project that utilizes multiple tools to emulate a pipeline of game-related events. It consists of the following tasks:
 
 - Instrumenting API server to log events to Kafka
 
